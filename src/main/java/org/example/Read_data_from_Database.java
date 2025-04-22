@@ -1,12 +1,13 @@
 package org.example;
 
-import javax.swing.plaf.nimbus.State;
+// Import library
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class Main {
+public class Read_data_from_Database {
     public static void main(String[] args) throws Exception {
         String url = "jdbc:postgresql://localhost:5432/employee";
 
