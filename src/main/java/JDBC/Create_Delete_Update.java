@@ -1,4 +1,4 @@
-package org.example;
+package JDBC;
 
 // 1. Importing libraries
 import javax.swing.plaf.nimbus.State;
